@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amirkian2008
 - 👀 I’m interested in robotic
-- 🌱 I’m currently learning robotic
+- 🌱 I’m currently learning robotic and electronic
 - 💞️ I’m looking to collaborate on robotic
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
